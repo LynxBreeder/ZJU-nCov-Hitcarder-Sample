@@ -15,7 +15,7 @@ jobs:
           - username: ZJU_USERNAME
             password: ZJU_PASSWORD
             dingtalk_token: DINGTALK_TOKEN
-            pushplus_token: 4d29c37784f947429ba6dc3fb41c295c
+            pushplus_token: PUSHPLUS_TOKEN
             serverchan_key: SERVERCHAN_KEY
     steps:
       - name: Checkout
